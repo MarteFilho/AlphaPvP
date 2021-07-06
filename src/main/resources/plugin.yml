@@ -1,0 +1,14 @@
+name: AlphaPvP
+version: ${project.version}
+main: martefilho.alphapvp.AlphaPvP
+api-version: 1.16
+commands:
+  setarena:
+    description: Cria uma nova arena!
+    usage: /<command>
+  setarenaspawn:
+    description: Cria o spawn de uma arena!
+    usage: /<command>
+  kit:
+    description: Selecione um kit!
+    usage: /<command>
